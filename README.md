@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# Open NAP Master manuscript on GitHub
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,8 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This repository is a prototype for a NAP for a developing country, buiding on best available science of the IPCC and related results.
 
 ## Manubot
 
