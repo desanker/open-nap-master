@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/ab87890fc80f572e794c683623c4c76ad7040796/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/064d7ff910a4ef16578724fdc0a1566bc2100c20/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/ab87890fc80f572e794c683623c4c76ad7040796/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/064d7ff910a4ef16578724fdc0a1566bc2100c20/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/ab87890fc80f572e794c683623c4c76ad7040796/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/064d7ff910a4ef16578724fdc0a1566bc2100c20/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/ab87890fc80f572e794c683623c4c76ad7040796/))
+([permalink](https://desanker.github.io/open-nap-master/v/064d7ff910a4ef16578724fdc0a1566bc2100c20/))
 was automatically generated
-from [desanker/open-nap-master@ab87890](https://github.com/desanker/open-nap-master/tree/ab87890fc80f572e794c683623c4c76ad7040796)
+from [desanker/open-nap-master@064d7ff](https://github.com/desanker/open-nap-master/tree/064d7ff910a4ef16578724fdc0a1566bc2100c20)
 on April 30, 2020.
 </em></small>
 
@@ -136,6 +136,10 @@ on April 30, 2020.
 The Open NAP master is a generic NAP deveoped based on best available IPCC science and other high quality science products covering sectors and systems typically encountered in development countries when developing National Adaptation Plans.
 
 
+
+ {.page_break_before}
+ 
+ Hello world of NAPs
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
