@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Paul V. Desanker
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Open NAP Master" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Open NAP Master" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Open NAP Master" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Open NAP Master" />
 
   <meta name="dc.date" content="2020-04-30" />
 
@@ -39,13 +39,11 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
-
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="Paul V. Desanker" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@XX" />
 
   <meta name="citation_author" content="Jane Roe" />
 
@@ -67,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/7a57a22d21edbb234cbd8d98510655c52a21c871/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/9f2648e93448463ab773f3a629d11f43ccaad921/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/7a57a22d21edbb234cbd8d98510655c52a21c871/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/9f2648e93448463ab773f3a629d11f43ccaad921/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/7a57a22d21edbb234cbd8d98510655c52a21c871/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/9f2648e93448463ab773f3a629d11f43ccaad921/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +83,14 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- generic NAP
+- Open NAP
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Open NAP Master
 ...
 
 
@@ -103,9 +100,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/7a57a22d21edbb234cbd8d98510655c52a21c871/))
+([permalink](https://desanker.github.io/open-nap-master/v/9f2648e93448463ab773f3a629d11f43ccaad921/))
 was automatically generated
-from [desanker/open-nap-master@7a57a22](https://github.com/desanker/open-nap-master/tree/7a57a22d21edbb234cbd8d98510655c52a21c871)
+from [desanker/open-nap-master@9f2648e](https://github.com/desanker/open-nap-master/tree/9f2648e93448463ab773f3a629d11f43ccaad921)
 on April 30, 2020.
 </em></small>
 
@@ -113,16 +110,14 @@ on April 30, 2020.
 
 
 
-+ **John Doe**<br>
++ **Paul V. Desanker**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [desanker](https://github.com/desanker)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [XX](https://twitter.com/XX)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
   </small>
 
 + **Jane Roe**<br>
