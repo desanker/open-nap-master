@@ -1,21 +1,18 @@
 ---
-title: "Manuscript Title"
+title: Open NAP Master
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - generic NAP
+  - Open NAP
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: desanker
+    name: Paul V. Desanker
+    initials: PD
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
-    affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
+    twitter: XX
+    email: pdesanker@unfccc.int
+    Affiliations:
+      - Adaptation Division
   - github: janeroe
     name: Jane Roe
     initials: JR
