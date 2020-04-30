@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/9f2648e93448463ab773f3a629d11f43ccaad921/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/ab87890fc80f572e794c683623c4c76ad7040796/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/9f2648e93448463ab773f3a629d11f43ccaad921/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/ab87890fc80f572e794c683623c4c76ad7040796/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/9f2648e93448463ab773f3a629d11f43ccaad921/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/ab87890fc80f572e794c683623c4c76ad7040796/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/9f2648e93448463ab773f3a629d11f43ccaad921/))
+([permalink](https://desanker.github.io/open-nap-master/v/ab87890fc80f572e794c683623c4c76ad7040796/))
 was automatically generated
-from [desanker/open-nap-master@9f2648e](https://github.com/desanker/open-nap-master/tree/9f2648e93448463ab773f3a629d11f43ccaad921)
+from [desanker/open-nap-master@ab87890](https://github.com/desanker/open-nap-master/tree/ab87890fc80f572e794c683623c4c76ad7040796)
 on April 30, 2020.
 </em></small>
 
@@ -133,6 +133,7 @@ on April 30, 2020.
 
 ## Abstract {.page_break_before}
 
+The Open NAP master is a generic NAP deveoped based on best available IPCC science and other high quality science products covering sectors and systems typically encountered in development countries when developing National Adaptation Plans.
 
 
 
