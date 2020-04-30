@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/2c2868957798937f5203248bdfb9e414c8fd0ad1/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/7a57a22d21edbb234cbd8d98510655c52a21c871/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/2c2868957798937f5203248bdfb9e414c8fd0ad1/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/7a57a22d21edbb234cbd8d98510655c52a21c871/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/2c2868957798937f5203248bdfb9e414c8fd0ad1/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/7a57a22d21edbb234cbd8d98510655c52a21c871/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/2c2868957798937f5203248bdfb9e414c8fd0ad1/))
+([permalink](https://desanker.github.io/open-nap-master/v/7a57a22d21edbb234cbd8d98510655c52a21c871/))
 was automatically generated
-from [desanker/open-nap-master@2c28689](https://github.com/desanker/open-nap-master/tree/2c2868957798937f5203248bdfb9e414c8fd0ad1)
+from [desanker/open-nap-master@7a57a22](https://github.com/desanker/open-nap-master/tree/7a57a22d21edbb234cbd8d98510655c52a21c871)
 on April 30, 2020.
 </em></small>
 
