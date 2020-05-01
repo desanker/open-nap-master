@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/30e61c26d331c2e6891db2d1672677f015008a1b/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/b733501d1292ac22605582204fef7e623605f287/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/30e61c26d331c2e6891db2d1672677f015008a1b/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/b733501d1292ac22605582204fef7e623605f287/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/30e61c26d331c2e6891db2d1672677f015008a1b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/b733501d1292ac22605582204fef7e623605f287/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/30e61c26d331c2e6891db2d1672677f015008a1b/))
+([permalink](https://desanker.github.io/open-nap-master/v/b733501d1292ac22605582204fef7e623605f287/))
 was automatically generated
-from [desanker/open-nap-master@30e61c2](https://github.com/desanker/open-nap-master/tree/30e61c26d331c2e6891db2d1672677f015008a1b)
+from [desanker/open-nap-master@b733501](https://github.com/desanker/open-nap-master/tree/b733501d1292ac22605582204fef7e623605f287)
 on May 1, 2020.
 </em></small>
 
@@ -141,9 +141,42 @@ The next frontier seems to be how to use the knowledge we have to design effecti
 
 
 
- {.page_break_before}
+##Introduction {.page_break_before}
+
+The IPCC assessment reorts are a good synthesis of studies that have documented the advserse impacts of climate change. The IPCC 5AR has further developed the concept of Resasons for Concern into five categories, within which key risks can be aggregated into graphic measures of risk in teh form of amber diagrams. 
  
- Hello world of NAPs
+The IPCC reasons for concern are the relations between global mean temperature increase and:
+
+**1.	Unique and threatened systems:** Some unique and threatened systems, including ecosystems and cultures, are already at risk from climate change (high confidence). The number of such systems at risk of severe consequences is higher with additional warming of around 1°C. Many species and systems with limited adaptive capacity are subject to very high risks with additional warming of 2°C, particularly Arctic sea-ice and coral-reef systems.
+
+**2.	Extreme weather events:** Climate-change-related risks from extreme events, such as heat waves, extreme precipitation, and coastal flooding, are already moderate (high confidence) and high with 1°C additional warming (medium confidence). Risks associated with some types of extreme events (e.g., extreme heat) increase further at higher temperatures (high confidence).
+
+**3.	Distribution of impacts:** Risks are unevenly distributed and are generally greater for disadvantaged people and communities in countries at all levels of development. Risks are already moderate because of regionally differentiated climate-change impacts on crop production in particular (medium to high confidence). Based on projected decreases in regional crop yields and water availability, risks of unevenly distributed impacts are high for additional warming above 2°C (medium confidence).
+
+**4.	Global aggregate impacts:** Risks of global aggregate impacts are moderate for additional warming between 1-2°C, reflecting impacts to both Earth’s biodiversity and the overall global economy (medium confidence). Extensive biodiversity loss with associated loss of ecosystem goods and services results in high risks around 3°C additional warming (high confidence). Aggregate economic damages accelerate with increasing temperature (limited evidence, high agreement), but few quantitative estimates have been completed for additional warming around 3°C or above.
+
+**5.	Large-scale singular events:** With increasing warming, some physical systems or ecosystems may be at risk of abrupt and irreversible changes. Risks associated with such tipping points become moderate between 0-1°C additional warming, due to early warning signs that both warm-water coral reef and Arctic ecosystems are already experiencing irreversible regime shifts (medium confidence). Risks increase disproportionately as temperature increases between 1-2°C additional warming and become high above 3°C, due to the potential for a large and irreversible sea level rise from ice sheet loss. For sustained warming greater than some threshold, near-complete loss of the Greenland ice sheet would occur over a millennium or more, contributing up to 7 m of global mean sea level rise. 
+
+**Eight overarching key risks**
+
+(i) Risk of death, injury, ill-health, or disrupted livelihoods in low-lying coastal zones and small island developing states and other small islands due to storm surges, coastal flooding, and sea-level rise
+
+(ii) Risk of severe ill-health and disrupted livelihoods for large urban populations due to inland flooding in some regions
+
+(iii) Systemic risks due to extreme weather events leading to breakdown of infrastructure networks and critical services such as electricity, water supply, and health and emergency services
+
+(iv) Risk of mortality and morbidity during periods of extreme heat, particularly for vulnerable urban populations and those working outdoors in urban or rural areas
+
+(v) Risk of food insecurity and the breakdown of food systems linked to warming, drought, flooding, and precipitation variability and extremes, particularly for poorer populations in urban and rural settings
+
+(vi) Risk of loss of rural livelihoods and income due to insufficient access to drinking and irrigation water and reduced agricultural productivity, particularly for farmers and pastoralists with minimal capital in semi-arid regions
+
+(vii) Risk of loss of marine and coastal ecosystems, biodiversity, and the ecosystem goods, functions, and services they provide for coastal livelihoods, especially for fishing communities in the tropics and the Arctic
+
+(viii) Risk of loss of terrestrial and inland water ecosystems, biodiversity, and the ecosystem goods, functions, and services they provide for livelihoods
+
+
+
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
