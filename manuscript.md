@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-30'
+date-meta: '2020-05-01'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Open NAP Master" />
 
-  <meta name="dc.date" content="2020-04-30" />
+  <meta name="dc.date" content="2020-05-01" />
 
-  <meta name="citation_publication_date" content="2020-04-30" />
+  <meta name="citation_publication_date" content="2020-05-01" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/f78cc31c3a519659ef6012222b86ab9f91d11b87/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/30e61c26d331c2e6891db2d1672677f015008a1b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/f78cc31c3a519659ef6012222b86ab9f91d11b87/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/30e61c26d331c2e6891db2d1672677f015008a1b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/f78cc31c3a519659ef6012222b86ab9f91d11b87/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/30e61c26d331c2e6891db2d1672677f015008a1b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,10 +100,10 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/f78cc31c3a519659ef6012222b86ab9f91d11b87/))
+([permalink](https://desanker.github.io/open-nap-master/v/30e61c26d331c2e6891db2d1672677f015008a1b/))
 was automatically generated
-from [desanker/open-nap-master@f78cc31](https://github.com/desanker/open-nap-master/tree/f78cc31c3a519659ef6012222b86ab9f91d11b87)
-on April 30, 2020.
+from [desanker/open-nap-master@30e61c2](https://github.com/desanker/open-nap-master/tree/30e61c26d331c2e6891db2d1672677f015008a1b)
+on May 1, 2020.
 </em></small>
 
 ## Authors
@@ -133,7 +133,11 @@ on April 30, 2020.
 
 ## Abstract {.page_break_before}
 
-The Open NAP master is a generic NAP deveoped based on best available IPCC science and other high quality science products covering sectors and systems typically encountered in development countries when developing National Adaptation Plans.
+The Open NAP master is a general NAP deveoped based on best available IPCC science and other high quality science products covering sectors and systems typically encountered in development countries when developing National Adaptation Plans. One thing that is obvious from the extensive IPCC 5AR is the immense knowledge of how climate change impacts different systems and sectors, and how similar thoe impacts are between countries. It is unlikely we will discover new impacts or improve our basic understanding of climate change in order to develop improved adaptation plans. It is also clear that doing more and more generic impact or vulnerability assessments will have limited value - we can now take is as known and accepted that things like droughts, floods etc will have negative impacts, and will get worse as climaet continues to change, and that any given system will be impacted by multiple hazards, climate-related and others.
+
+The next frontier seems to be how to use the knowledge we have to design effective adaptation responses. In this exercise, we build on the collective knowledge that exiists now, to design a general NAP that can be applied as an antry point for any country. 
+
+
 
 
 
