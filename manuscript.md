@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/280b2871e38426bf7e1a1ca2ed0717e287cb52de/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/9259ebd34bea6abe3df5ae576be7b7fb473e5c25/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/280b2871e38426bf7e1a1ca2ed0717e287cb52de/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/9259ebd34bea6abe3df5ae576be7b7fb473e5c25/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/280b2871e38426bf7e1a1ca2ed0717e287cb52de/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/9259ebd34bea6abe3df5ae576be7b7fb473e5c25/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/280b2871e38426bf7e1a1ca2ed0717e287cb52de/))
+([permalink](https://desanker.github.io/open-nap-master/v/9259ebd34bea6abe3df5ae576be7b7fb473e5c25/))
 was automatically generated
-from [desanker/open-nap-master@280b287](https://github.com/desanker/open-nap-master/tree/280b2871e38426bf7e1a1ca2ed0717e287cb52de)
+from [desanker/open-nap-master@9259ebd](https://github.com/desanker/open-nap-master/tree/9259ebd34bea6abe3df5ae576be7b7fb473e5c25)
 on May 2, 2020.
 </em></small>
 
@@ -145,13 +145,15 @@ The next frontier seems to be how to use the knowledge we have to design effecti
 
 1. The NAP-SDG iFrame
 
-2. Developing a collection of systems for adaptation taking into account SDGs, Sendai Framework, urban systems and other relevant frameworks
+2. The risk continuuum between drr, adaptation and loss and damage
 
-3. A general Open NAP applicable to any country
+3. Developing a collection of systems for adaptation taking into account SDGs, Sendai Framework, urban systems and other relevant frameworks
 
-4. Case study: Country x
+4. A general Open NAP applicable to any country
 
-5. Adaptation Solutions Database
+5. Case study: Country x
+
+6. Adaptation Solutions Database
 
 
 ##Introduction {.page_break_before}
