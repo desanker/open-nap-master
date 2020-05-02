@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/b0c0745c69ecfe99eea8f9270eb63005929f0cdc/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/280b2871e38426bf7e1a1ca2ed0717e287cb52de/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/b0c0745c69ecfe99eea8f9270eb63005929f0cdc/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/280b2871e38426bf7e1a1ca2ed0717e287cb52de/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/b0c0745c69ecfe99eea8f9270eb63005929f0cdc/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/280b2871e38426bf7e1a1ca2ed0717e287cb52de/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/b0c0745c69ecfe99eea8f9270eb63005929f0cdc/))
+([permalink](https://desanker.github.io/open-nap-master/v/280b2871e38426bf7e1a1ca2ed0717e287cb52de/))
 was automatically generated
-from [desanker/open-nap-master@b0c0745](https://github.com/desanker/open-nap-master/tree/b0c0745c69ecfe99eea8f9270eb63005929f0cdc)
+from [desanker/open-nap-master@280b287](https://github.com/desanker/open-nap-master/tree/280b2871e38426bf7e1a1ca2ed0717e287cb52de)
 on May 2, 2020.
 </em></small>
 
@@ -145,9 +145,9 @@ The next frontier seems to be how to use the knowledge we have to design effecti
 
 1. The NAP-SDG iFrame
 
-2. Collection of systems for adaptation
+2. Developing a collection of systems for adaptation taking into account SDGs, Sendai Framework, urban systems and other relevant frameworks
 
-3. General Open NAP
+3. A general Open NAP applicable to any country
 
 4. Case study: Country x
 
@@ -156,7 +156,7 @@ The next frontier seems to be how to use the knowledge we have to design effecti
 
 ##Introduction {.page_break_before}
 
-The IPCC assessment reorts are a good synthesis of studies that have documented the advserse impacts of climate change. The IPCC 5AR has further developed the concept of Resasons for Concern into five categories, within which key risks can be aggregated into graphic measures of risk in teh form of amber diagrams. 
+The IPCC assessment reorts are a good synthesis of studies that have documented the advserse impacts of climate change. The IPCC 5AR has further developed the concept of Resasons for Concern into five categories, within which key risks can be aggregated into graphic measures of risk in the form of amber diagrams. 
  
 The IPCC reasons for concern are the relations between global mean temperature increase and:
 
