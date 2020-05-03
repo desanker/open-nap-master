@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-02'
+date-meta: '2020-05-03'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Open NAP Master" />
 
-  <meta name="dc.date" content="2020-05-02" />
+  <meta name="dc.date" content="2020-05-03" />
 
-  <meta name="citation_publication_date" content="2020-05-02" />
+  <meta name="citation_publication_date" content="2020-05-03" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/9259ebd34bea6abe3df5ae576be7b7fb473e5c25/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/cff39b0cba5f15ff19e4ed26288fe37fc9966d05/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/9259ebd34bea6abe3df5ae576be7b7fb473e5c25/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/cff39b0cba5f15ff19e4ed26288fe37fc9966d05/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/9259ebd34bea6abe3df5ae576be7b7fb473e5c25/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/cff39b0cba5f15ff19e4ed26288fe37fc9966d05/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,10 +100,10 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/9259ebd34bea6abe3df5ae576be7b7fb473e5c25/))
+([permalink](https://desanker.github.io/open-nap-master/v/cff39b0cba5f15ff19e4ed26288fe37fc9966d05/))
 was automatically generated
-from [desanker/open-nap-master@9259ebd](https://github.com/desanker/open-nap-master/tree/9259ebd34bea6abe3df5ae576be7b7fb473e5c25)
-on May 2, 2020.
+from [desanker/open-nap-master@cff39b0](https://github.com/desanker/open-nap-master/tree/cff39b0cba5f15ff19e4ed26288fe37fc9966d05)
+on May 3, 2020.
 </em></small>
 
 ## Authors
@@ -139,6 +139,9 @@ The next frontier seems to be how to use the knowledge we have to design effecti
 
 
 
+
+
+## Introduction
 
 
 ## List of Papers
