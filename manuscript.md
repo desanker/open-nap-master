@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/2a1bf46bd9a9970c7e6470d02f8366a93c95d62f/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/873fd274dc654248a99893454560114d38ba8b32/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/2a1bf46bd9a9970c7e6470d02f8366a93c95d62f/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/873fd274dc654248a99893454560114d38ba8b32/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/2a1bf46bd9a9970c7e6470d02f8366a93c95d62f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/873fd274dc654248a99893454560114d38ba8b32/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/2a1bf46bd9a9970c7e6470d02f8366a93c95d62f/))
+([permalink](https://desanker.github.io/open-nap-master/v/873fd274dc654248a99893454560114d38ba8b32/))
 was automatically generated
-from [desanker/open-nap-master@2a1bf46](https://github.com/desanker/open-nap-master/tree/2a1bf46bd9a9970c7e6470d02f8366a93c95d62f)
+from [desanker/open-nap-master@873fd27](https://github.com/desanker/open-nap-master/tree/873fd274dc654248a99893454560114d38ba8b32)
 on May 3, 2020.
 </em></small>
 
@@ -486,6 +486,11 @@ useful for *important information* - [manubot.org](https://manubot.org/)
 <i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
 useful for *warnings* - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
+
+
+## Risk Continuum between drr, adaptation and L&D
+
+xxxx
 
 
 ## References {.page_break_before}
