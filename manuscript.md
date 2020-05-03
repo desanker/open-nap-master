@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/84c41f76c8750531ee583401e5e587d89899a803/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/635bf1fca10ddae01e91ab157f01483dc172cf78/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/84c41f76c8750531ee583401e5e587d89899a803/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/635bf1fca10ddae01e91ab157f01483dc172cf78/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/84c41f76c8750531ee583401e5e587d89899a803/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/635bf1fca10ddae01e91ab157f01483dc172cf78/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/84c41f76c8750531ee583401e5e587d89899a803/))
+([permalink](https://desanker.github.io/open-nap-master/v/635bf1fca10ddae01e91ab157f01483dc172cf78/))
 was automatically generated
-from [desanker/open-nap-master@84c41f7](https://github.com/desanker/open-nap-master/tree/84c41f76c8750531ee583401e5e587d89899a803)
+from [desanker/open-nap-master@635bf1f](https://github.com/desanker/open-nap-master/tree/635bf1fca10ddae01e91ab157f01483dc172cf78)
 on May 3, 2020.
 </em></small>
 
@@ -745,6 +745,11 @@ SYSTEM: National government budget, tax and policies
 SYSTEM: Business and economic operations
 
 
+
+
+## General Open NAP
+
+Cotents
 
 
 ## References {.page_break_before}
