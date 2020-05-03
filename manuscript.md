@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/635bf1fca10ddae01e91ab157f01483dc172cf78/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/15cc53e89c9b9aa65c7385aadb9969e03e7b826c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/635bf1fca10ddae01e91ab157f01483dc172cf78/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/15cc53e89c9b9aa65c7385aadb9969e03e7b826c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/635bf1fca10ddae01e91ab157f01483dc172cf78/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/15cc53e89c9b9aa65c7385aadb9969e03e7b826c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/635bf1fca10ddae01e91ab157f01483dc172cf78/))
+([permalink](https://desanker.github.io/open-nap-master/v/15cc53e89c9b9aa65c7385aadb9969e03e7b826c/))
 was automatically generated
-from [desanker/open-nap-master@635bf1f](https://github.com/desanker/open-nap-master/tree/635bf1fca10ddae01e91ab157f01483dc172cf78)
+from [desanker/open-nap-master@15cc53e](https://github.com/desanker/open-nap-master/tree/15cc53e89c9b9aa65c7385aadb9969e03e7b826c)
 on May 3, 2020.
 </em></small>
 
@@ -750,6 +750,11 @@ SYSTEM: Business and economic operations
 ## General Open NAP
 
 Cotents
+
+
+## Country NAP: Case study for country X
+
+xxx
 
 
 ## References {.page_break_before}
