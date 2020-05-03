@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/647a77dd760cb2a25ceae5ca3291cc589717f666/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/9c3be16dd7fae12ba839b0a8bc2a6ded22506455/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/647a77dd760cb2a25ceae5ca3291cc589717f666/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/9c3be16dd7fae12ba839b0a8bc2a6ded22506455/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/647a77dd760cb2a25ceae5ca3291cc589717f666/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/9c3be16dd7fae12ba839b0a8bc2a6ded22506455/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/647a77dd760cb2a25ceae5ca3291cc589717f666/))
+([permalink](https://desanker.github.io/open-nap-master/v/9c3be16dd7fae12ba839b0a8bc2a6ded22506455/))
 was automatically generated
-from [desanker/open-nap-master@647a77d](https://github.com/desanker/open-nap-master/tree/647a77dd760cb2a25ceae5ca3291cc589717f666)
+from [desanker/open-nap-master@9c3be16](https://github.com/desanker/open-nap-master/tree/9c3be16dd7fae12ba839b0a8bc2a6ded22506455)
 on May 3, 2020.
 </em></small>
 
@@ -506,27 +506,27 @@ xxxx
 
 ### Collection of systems for cities and other scopes
 
-### Table of systems and annotations
 
-LIST OF MAIN SYSTEMS: Results of Nairobi Workshop, 2-6 Sept 2019
-
-
-MEGASYSTEM: Disaster Risk - Human safety and well-being
-
-SYSTEM: River bank flooding as a planning system
-
-SYSTEM: Urban flooding as a planning system
-
-SYSTEM: Major storms (cyclones) as a planning system
-
-SYSTEM: Lightning as a planning system
-
-SYSTEM: Heat waves as a planning system
-
-SYSTEM: Landslides as a planning system
+### Table of systems and annotations: LIST OF MAIN SYSTEMS: Results of Nairobi Workshop, 2-6 Sept 2019
 
 
-MEGASYSTEM: Food Security
+#### MEGASYSTEM: Disaster Risk - Human safety and well-being
+
+##### SYSTEM: River bank flooding as a planning system
+
+##### SYSTEM: Urban flooding as a planning system
+
+##### SYSTEM: Major storms (cyclones) as a planning system
+
+##### SYSTEM: Lightning as a planning system
+
+##### SYSTEM: Heat waves as a planning system
+
+##### SYSTEM: Landslides as a planning system
+
+
+
+#### MEGASYSTEM: Food Security
 
 Food Availability
 
