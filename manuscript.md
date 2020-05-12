@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/88817119567b0f61ab6fa697dbccbba183687495/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/88817119567b0f61ab6fa697dbccbba183687495/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/88817119567b0f61ab6fa697dbccbba183687495/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/88817119567b0f61ab6fa697dbccbba183687495/))
+([permalink](https://desanker.github.io/open-nap-master/v/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d/))
 was automatically generated
-from [desanker/open-nap-master@8881711](https://github.com/desanker/open-nap-master/tree/88817119567b0f61ab6fa697dbccbba183687495)
+from [desanker/open-nap-master@04588e8](https://github.com/desanker/open-nap-master/tree/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d)
 on May 12, 2020.
 </em></small>
 
@@ -162,12 +162,12 @@ xxxx
 xxx
 
 
-## General Open NAP
+## Vision, Goals and Objectives of the NAP
 
-Cotents
+xxxx
 
 
-## Country NAP: Case study for country X
+## Climate Change Adaptation Assessment
 
 xxx
 
