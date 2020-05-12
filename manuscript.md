@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/01d6b0603541c94d90b44df88d32554fcc677534/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/3357ac3245e38f8f20512ce0f0466bc2563560ff/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/01d6b0603541c94d90b44df88d32554fcc677534/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/3357ac3245e38f8f20512ce0f0466bc2563560ff/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/01d6b0603541c94d90b44df88d32554fcc677534/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/3357ac3245e38f8f20512ce0f0466bc2563560ff/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/01d6b0603541c94d90b44df88d32554fcc677534/))
+([permalink](https://desanker.github.io/open-nap-master/v/3357ac3245e38f8f20512ce0f0466bc2563560ff/))
 was automatically generated
-from [desanker/open-nap-master@01d6b06](https://github.com/desanker/open-nap-master/tree/01d6b0603541c94d90b44df88d32554fcc677534)
+from [desanker/open-nap-master@3357ac3](https://github.com/desanker/open-nap-master/tree/3357ac3245e38f8f20512ce0f0466bc2563560ff)
 on May 12, 2020.
 </em></small>
 
@@ -184,6 +184,41 @@ xxx
 
 
 ## Alignment with the GCF Country Programme
+
+xxx
+
+
+## Mobilization of other Sources of Finance
+
+xxx
+
+
+## Monitoring and evaluation of adaptation actions and process
+
+xxx
+
+
+## Reporting
+
+xxx
+
+
+## Further development of the programme to support future NAPs
+
+xxx
+
+
+## Annex I: NAP Outputs
+
+xxx
+
+
+## Annex 2: Country Profile
+
+xxxx
+
+
+## Data and information system to support the NAP
 
 xxx
 
