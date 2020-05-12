@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/08eb59ee8954b36abe3e4e7a1d7050800dae5344/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/3543ae79257e96c25c67be97d377181bb8943e0b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/08eb59ee8954b36abe3e4e7a1d7050800dae5344/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/3543ae79257e96c25c67be97d377181bb8943e0b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/08eb59ee8954b36abe3e4e7a1d7050800dae5344/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/3543ae79257e96c25c67be97d377181bb8943e0b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/08eb59ee8954b36abe3e4e7a1d7050800dae5344/))
+([permalink](https://desanker.github.io/open-nap-master/v/3543ae79257e96c25c67be97d377181bb8943e0b/))
 was automatically generated
-from [desanker/open-nap-master@08eb59e](https://github.com/desanker/open-nap-master/tree/08eb59ee8954b36abe3e4e7a1d7050800dae5344)
+from [desanker/open-nap-master@3543ae7](https://github.com/desanker/open-nap-master/tree/3543ae79257e96c25c67be97d377181bb8943e0b)
 on May 12, 2020.
 </em></small>
 
@@ -133,7 +133,7 @@ on May 12, 2020.
 
 ## Abstract {.page_break_before}
 
-The Open NAP master is a general NAP deveoped based on best available IPCC science and other high quality science products covering sectors and systems typically encountered in development countries when developing National Adaptation Plans. One thing that is obvious from the extensive IPCC 5AR is the immense knowledge of how climate change impacts different systems and sectors, and how similar thoe impacts are between countries. It is unlikely we will discover new impacts or improve our basic understanding of climate change in order to develop improved adaptation plans. It is also clear that doing more and more generic impact or vulnerability assessments will have limited value - we can now take is as known and accepted that things like droughts, floods etc will have negative impacts, and will get worse as climaet continues to change, and that any given system will be impacted by multiple hazards, climate-related and others.
+The Open NAP master is a general NAP developed based on best available IPCC science and other high quality science products covering sectors and systems typically encountered in development countries when developing National Adaptation Plans. One thing that is obvious from the extensive IPCC 5AR is the immense knowledge of how climate change impacts different systems and sectors, and how similar those impacts are between countries. It is unlikely we will discover new impacts or improve our basic understanding of climate change in order to develop improved adaptation plans. It is also clear that doing more and more generic impact or vulnerability assessments will have limited value - we can now take is as known and accepted that things like droughts, floods etc will have negative impacts, and will get worse as climate continues to change, and that any given system will be impacted by multiple hazards, climate-related and others.
 
 The next frontier seems to be how to use the knowledge we have to design effective adaptation responses. In this exercise, we build on the collective knowledge that exiists now, to design a general NAP that can be applied as an antry point for any country. 
 
