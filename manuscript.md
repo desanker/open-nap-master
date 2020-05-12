@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/a76165c176d8eb31fb4697accf3dd1c20ded564d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/a76165c176d8eb31fb4697accf3dd1c20ded564d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/a76165c176d8eb31fb4697accf3dd1c20ded564d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,9 +100,9 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d/))
+([permalink](https://desanker.github.io/open-nap-master/v/a76165c176d8eb31fb4697accf3dd1c20ded564d/))
 was automatically generated
-from [desanker/open-nap-master@04588e8](https://github.com/desanker/open-nap-master/tree/04588e8f8e5a4625ae108f26ee7fe693f2f0ee0d)
+from [desanker/open-nap-master@a76165c](https://github.com/desanker/open-nap-master/tree/a76165c176d8eb31fb4697accf3dd1c20ded564d)
 on May 12, 2020.
 </em></small>
 
@@ -172,10 +172,20 @@ xxxx
 xxx
 
 
-## Adaptation Solutions Database
+## National Adaptation Priorities
 
 xxxx
 xxxx
+
+
+## Implementation Strategy for the NAP
+
+xxx
+
+
+## Alignment with the GCF Country Programme
+
+xxx
 
 
 ## References {.page_break_before}
