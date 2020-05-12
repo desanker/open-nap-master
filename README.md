@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/desanker/open-nap-master/tree/gh-pages) branch hosts the contents of this directory at <https://desanker.github.io/open-nap-master/>.
-The permalink for this webpage version is <https://desanker.github.io/open-nap-master/v/01d6b0603541c94d90b44df88d32554fcc677534/>.
+The permalink for this webpage version is <https://desanker.github.io/open-nap-master/v/3357ac3245e38f8f20512ce0f0466bc2563560ff/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://desanker.github.io/open-nap-master/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`01d6b0603541c94d90b44df88d32554fcc677534`](https://github.com/desanker/open-nap-master/commit/01d6b0603541c94d90b44df88d32554fcc677534).
+[`3357ac3245e38f8f20512ce0f0466bc2563560ff`](https://github.com/desanker/open-nap-master/commit/3357ac3245e38f8f20512ce0f0466bc2563560ff).
