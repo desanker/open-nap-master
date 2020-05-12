@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-05-03'
+date-meta: '2020-05-12'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Open NAP Master" />
 
-  <meta name="dc.date" content="2020-05-03" />
+  <meta name="dc.date" content="2020-05-12" />
 
-  <meta name="citation_publication_date" content="2020-05-03" />
+  <meta name="citation_publication_date" content="2020-05-12" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -65,11 +65,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/open-nap-master/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/9c3be16dd7fae12ba839b0a8bc2a6ded22506455/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/open-nap-master/v/08eb59ee8954b36abe3e4e7a1d7050800dae5344/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/9c3be16dd7fae12ba839b0a8bc2a6ded22506455/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/open-nap-master/v/08eb59ee8954b36abe3e4e7a1d7050800dae5344/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/9c3be16dd7fae12ba839b0a8bc2a6ded22506455/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/open-nap-master/v/08eb59ee8954b36abe3e4e7a1d7050800dae5344/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -100,10 +100,10 @@ title: Open NAP Master
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/open-nap-master/v/9c3be16dd7fae12ba839b0a8bc2a6ded22506455/))
+([permalink](https://desanker.github.io/open-nap-master/v/08eb59ee8954b36abe3e4e7a1d7050800dae5344/))
 was automatically generated
-from [desanker/open-nap-master@9c3be16](https://github.com/desanker/open-nap-master/tree/9c3be16dd7fae12ba839b0a8bc2a6ded22506455)
-on May 3, 2020.
+from [desanker/open-nap-master@08eb59e](https://github.com/desanker/open-nap-master/tree/08eb59ee8954b36abe3e4e7a1d7050800dae5344)
+on May 12, 2020.
 </em></small>
 
 ## Authors
@@ -148,7 +148,7 @@ The next frontier seems to be how to use the knowledge we have to design effecti
 
 1. The NAP-SDG iFrame
 
-2. The risk continuuum between drr, adaptation and loss and damage
+2. The risk continuum between drr, adaptation and loss and damage
 
 3. Developing a collection of systems for adaptation taking into account SDGs, Sendai Framework, urban systems and other relevant frameworks
 
